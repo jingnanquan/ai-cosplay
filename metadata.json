@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 一键Cosplay生成器 (One-Click Cosplay Generator)",
+  "description": "一个使用 Gemini AI 为真人照片进行虚拟 Cosplay 的网页应用。上传一张照片，输入角色名，AI 会为你换上角色服装并画上专属妆容。",
+  "requestFramePermissions": []
+}
